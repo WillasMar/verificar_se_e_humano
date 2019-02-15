@@ -28,12 +28,12 @@ verificar_se_e_humano
 
 <h3>Operação Matemática</h3>
 
-<b>1 -<b> Na div 'teste' será gerado um cálculo matemático com as operações aritméticas básicas, sendo adição, subtração, multiplicação e divisão.
+<b>1 -</b> Na div 'teste' será gerado um cálculo matemático com as operações aritméticas básicas, sendo adição, subtração, multiplicação e divisão.
 
-<br><br>
+<br>
 
-<b>2 -<b> - No input 'resultado', o usuário informa o resultado da operação aritmética.
+<b>2 -</b> No input 'resultado', o usuário informa o resultado da operação aritmética.
 
-<br><br>
+<br>
 
-<b>3 -<b> - Ao clicar em verificar será analisado se o que foi informado corresponde ao resultado da operação aritmética. Se sim, entende-se que se trata de uma pessoa.
+<b>3 -</b> Ao clicar em verificar será analisado se o que foi informado corresponde ao resultado da operação aritmética. Se sim, entende-se que se trata de uma pessoa.
