@@ -17,7 +17,7 @@ verificar_se_e_humano
 </pre>
 
 <p>
-	<b>obs:</b> Para o funcionanmento do sistema é preciso seguir o padrão dos diretórios e arquivos conforme está descrito acima, caso contrário será necessário fazer alterações no fonte.
+	<b>obs:</b> Para o funcionamento do sistema é preciso seguir o padrão dos diretórios e arquivos conforme está descrito acima, caso contrário será necessário fazer alterações no fonte.
 </p>
 
 <h2>Objetivo</h2> 
