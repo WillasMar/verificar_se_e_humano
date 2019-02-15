@@ -3,6 +3,11 @@ $(function(){
 
 	gerarTeste();
 
+	$('#gerarOutro').bind('click',function(){
+		gerarTeste();
+		document.getElementById('resultado').focus();
+	});
+
 	$('#testeHumano').bind('submit',function(e){
 		e.preventDefault();
 
@@ -14,6 +19,8 @@ $(function(){
 			}else{
 				alert('Não é humano!');
 			}
+		}else{
+			alert('Por favor, é preciso informar o resultado da operação matemática!');
 		}
 
 		gerarTeste();

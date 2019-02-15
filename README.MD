@@ -38,3 +38,17 @@ verificar_se_e_humano
 <br>
 
 <b>3 -</b> Ao clicar em verificar será analisado se o que foi informado corresponde ao resultado da operação aritmética. Se sim, entende-se que se trata de uma pessoa.
+
+<h2>Alterações no Projeto</h2>
+
+<p>
+	Foi criado a funcionalidade para gerar outra operação matemática.
+</p>
+
+<b>index.html - </b>criado div 'gerarOutro' para gerar uma nova função matemática, deixando ela dentro da div 'teste'. Alterado a estrutura da div 'teste' retirando o id, e criado dentro dela uma outra div com esse id.
+<br>
+
+<b>style.css - </b>criado estilo para a div 'gerarOutro'.
+<br>
+
+<b>script.js - </b>criado a função para a div 'gerarOutro'. 
