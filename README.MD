@@ -17,9 +17,10 @@ verificar_se_e_humano
 </pre>
 
 <p>
-<b>obs:</b> Para o funcionando do sistema é preciso seguir o padrão dos diretórios e arquivos conforme está descrito acima, caso contrário será necessário fazer alterações no fonte.</p>
+	<b>obs:</b> Para o funcionanmento do sistema é preciso seguir o padrão dos diretórios e arquivos conforme está descrito acima, caso contrário será necessário fazer alterações no fonte.
+</p>
 
-<h2>Objetivo</h2>
+<h2>Objetivo</h2> 
 <p>
 	A idéia do projeto é verificar se é uma pessoa ou não. A primeira verificação será com base em uma operação aritmética, onde que será mostrado uma função matemática e terá que informar o resultado da mesma.
 </p>
