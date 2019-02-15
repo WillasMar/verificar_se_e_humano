@@ -1,0 +1,24 @@
+*{
+	font-family: arial;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #ddd;
+}
+.humano{
+	width: 400px;
+	height: 200px;
+	background-color: #ccc;
+	margin: auto;
+}
+.teste{
+	width: 400px;
+	height: 50px;
+	line-height: 50px;
+	background-color: #fff;
+	margin-bottom: 30px;
+}
+form{
+	text-align: center;
+}
